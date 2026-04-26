@@ -32,5 +32,5 @@ This project can be used as a basic contact manager for personal use and serves 
 - Password protection
 
 ## ▶️ How to Run
-- gcc *.c
-- ./a.out
+gcc *.c
+./a.out
