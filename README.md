@@ -30,3 +30,7 @@ This project can be used as a basic contact manager for personal use and serves 
 - Sorting contacts alphabetically
 - Import/Export contacts
 - Password protection
+
+## ▶️ How to Run
+- gcc *.c
+- ./a.out
